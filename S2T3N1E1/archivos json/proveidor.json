@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "636fe73e93f8440aa0adda46"
+  },
+  "nom": "Gafazon",
+  "adreça": {
+    "carrer": "Poligono Can Miro",
+    "numero": "2",
+    "pis": 0,
+    "puerta": 0,
+    "codi_postal": "08869",
+    "provincia ": {
+      "localitat ": {
+        "nom ": "Prat del Llobregat"
+      },
+      "nom ": "Barcelona"
+    },
+    "pais ": "Espanya"
+  },
+  "telefon": {
+    "telefon ": {
+      "$numberLong": "9368974526"
+    },
+    "FAX ": {
+      "$numberLong": "93874258963"
+    }
+  },
+  "nif ": "39874563-K"
+}]

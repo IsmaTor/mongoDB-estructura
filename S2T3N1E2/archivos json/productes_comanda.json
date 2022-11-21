@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6373bba9b11f4bf73583af41"
+  },
+  "hamburguesa_id ": {
+    "$oid": "6373bbb9b11f4bf73583af42"
+  },
+  "pizza_id ": {
+    "$oid": "6373bbc3b11f4bf73583af43"
+  },
+  "beguda_id ": {
+    "$oid": "6373bbccb11f4bf73583af44"
+  },
+  "comanda_ id ": {
+    "$oid": "6373bbdab11f4bf73583af45"
+  }
+}]

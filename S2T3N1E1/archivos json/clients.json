@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "636fe73e93f8440aa0adda46"
+  },
+  "nom": "Ramón",
+  "cognom1": "Carsan",
+  "cognom2": "Zerca",
+  "adreça": {
+    "carrer": "Huerto",
+    "numero": "58",
+    "pis": 2,
+    "puerta": 1,
+    "codi_postal": "08026",
+    "provincia ": {
+      "localitat ": {
+        "nom ": "Barcelona"
+      },
+      "nom ": "Barcelona"
+    }
+  },
+  "telefon": 698523478,
+  "data_registre": {
+    "$date": {
+      "$numberLong": "1668211200000"
+    }
+  },
+  "recomana": {
+    "$oid": "63737d22d67499e5d996f328"
+  }
+},{
+  "_id": {
+    "$oid": "63737d22d67499e5d996f328"
+  },
+  "nom": "Cassian",
+  "cognom1": "Jeron",
+  "cognom2": "Andor",
+  "adreça": {
+    "carrer": "De la Rebelión",
+    "numero": "16",
+    "pis": 4,
+    "puerta": 1,
+    "codi_postal": "02016",
+    "provincia ": {
+      "localitat ": {
+        "nom ": "Kenari"
+      },
+      "nom ": "Barcelona"
+    }
+  },
+  "telefon": 698523147,
+  "data_registre": {
+    "$date": {
+      "$numberLong": "1668211200000"
+    }
+  },
+  "recomana": ""
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "636fe73e93f8440aa0adda46"
+  },
+  "nom": "Elena",
+  "cognom1": "Nito",
+  "cognom2": "Del Bosque",
+  "adreça": {
+    "carrer": "Huerto",
+    "numero": "58",
+    "pis": 2,
+    "puerta": 1,
+    "codi_postal": "08026",
+    "provincia ": {
+      "localitat ": {
+        "nom ": "Barcelona"
+      },
+      "nom ": "Barcelona"
+    }
+  },
+  "telefon": 698523478
+}]

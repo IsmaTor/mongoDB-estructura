@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6374cd120dac6e93c2289e71"
+  },
+  "mail ": "",
+  "password ": "",
+  "nom_usuari ": "",
+  "data_naixement ": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "sexe ": "",
+  "pais ": "",
+  "codi_postal ": "",
+  "playlist": [
+    {
+      "playlist_id": {
+        "$oid": "63765838823d085082812dcc"
+      },
+      "data_cracio": {
+        "$date": {
+          "$numberLong": "1640995200000"
+        }
+      },
+      "estat": [
+        {
+          "publica": true,
+          "privada": false
+        }
+      ]
+    }
+  ]
+}]

@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "637380c1d67499e5d996f332"
+  },
+  "marca": "Rai Ban",
+  "graduacio ": {
+    "graduacio_esq ": 1,
+    "graduacio_dre ": 1
+  },
+  "montura ": {
+    "tipo ": "plàstic",
+    "color": {
+      "montura ": "blau",
+      "vidre_esq ": "gris",
+      "vidre_dre ": "gris"
+    }
+  },
+  "preu ": 90,
+  "venedor_id ": {
+    "$oid": "63738e5cd67499e5d996f34c"
+  },
+  "proveidor_id ": {
+    "$oid": "636fe73e93f8440aa0adda46"
+  }
+},{
+  "_id": {
+    "$oid": "63738248d67499e5d996f333"
+  },
+  "marca": "Rogue One",
+  "graduacio ": {
+    "graduacio_esq ": 0.5,
+    "graduacio_dre ": 0.5
+  },
+  "montura ": {
+    "tipo ": "metall",
+    "color": {
+      "montura ": "blanca",
+      "vidre_esq ": "negre",
+      "vidre_dre ": "negre"
+    }
+  },
+  "preu ": 116,
+  "venedor_id ": {
+    "$oid": "63738e5cd67499e5d996f34c"
+  },
+  "proveidor_id ": {
+    "$oid": "636fe73e93f8440aa0adda46"
+  }
+}]

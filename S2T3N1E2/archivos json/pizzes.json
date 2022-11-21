@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6372021f6a43fd11d47d5242"
+  },
+  "nom": "Margarita",
+  "descripcio": "Mozzarella i tomaquet",
+  "imatge": "",
+  "preu": 7,
+  "categoria ": [
+    {
+      "categoria_a ": "Sin gluten"
+    },
+    {
+      "categoria_b ": "Especial"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6373b300b11f4bf73583af10"
+  },
+  "nom": "4 Estaciones",
+  "descripcio": "Mozzarella, tomaquet, anxovas, olives, boletus, carxofa",
+  "imatge": "",
+  "preu": 10,
+  "categoria ": [
+    {
+      "categoria_a ": "Sin gluten"
+    },
+    {
+      "categoria_b ": "Especial"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6373b306b11f4bf73583af11"
+  },
+  "nom": "Barbacoa",
+  "descripcio": "Mozzarella, tomaquet, carn i salsa Barbacoa",
+  "imatge": "",
+  "preu": 9,
+  "categoria ": [
+    {
+      "categoria_a ": "Sin gluten"
+    },
+    {
+      "categoria_b ": "Especial"
+    }
+  ]
+}]

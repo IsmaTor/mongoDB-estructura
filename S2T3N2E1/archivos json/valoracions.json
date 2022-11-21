@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6372694a6a43fd11d47d52c6"
+  },
+  "like": 0,
+  "deslike": 0,
+  "data_creacio": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "comentaris_id": {
+    "$oid": "63726c216a43fd11d47d52d5"
+  },
+  "usuari_id": {
+    "$oid": "6374cd120dac6e93c2289e71"
+  },
+  "video_id": {
+    "$oid": "63726afd6a43fd11d47d52cc"
+  }
+}]

@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "637207fc6a43fd11d47d5258"
+  },
+  "data_venda": {
+    "$date": {
+      "$numberLong": "1668384000000"
+    }
+  },
+  "tipus_comanda (domicili o tenda)": {
+    "domicili": true,
+    "tenda ": false
+  },
+  "preu_total ": 0,
+  "client_id ": {
+    "$oid": "6373b1a1b11f4bf73583af08"
+  },
+  "tenda_id ": {
+    "$oid": "6373b51fb11f4bf73583af21"
+  }
+},{
+  "_id": {
+    "$oid": "6373b173b11f4bf73583af07"
+  },
+  "data_venda": {
+    "$date": {
+      "$numberLong": "1668384000000"
+    }
+  },
+  "tipus_comanda (domicili o tenda)": {
+    "domicili": false,
+    "tenda ": true
+  },
+  "preu_total ": 0,
+  "client_id": {
+    "$oid": "6373b1b3b11f4bf73583af09"
+  },
+  "tenda_id ": {
+    "$oid": "6373b52db11f4bf73583af22"
+  }
+}]

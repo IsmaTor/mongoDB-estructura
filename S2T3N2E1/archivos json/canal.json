@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "63726ba16a43fd11d47d52cf"
+  },
+  "nom": "",
+  "descripcio": "",
+  "data_creacio": {
+    "$date": {
+      "$numberLong": "1672527600000"
+    }
+  }
+}]

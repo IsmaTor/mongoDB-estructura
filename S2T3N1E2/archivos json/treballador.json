@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6373b5b9b11f4bf73583af28"
+  },
+  "nom ": "Wendy",
+  "cognom1 ": "Ramirez",
+  "cognom2 ": "Rodríguez",
+  "NIF ": "478956325-O",
+  "telefon ": "658796325",
+  "lloc_treball ": [
+    {
+      "repartidor ": true,
+      "comanda_id ": {
+        "$oid": "6373b73ab11f4bf73583af29"
+      },
+      "data_comanda ": {
+        "$date": {
+          "$numberLong": "1640995200000"
+        }
+      }
+    },
+    {
+      "cuiner ": false
+    }
+  ],
+  "tenda_id ": {
+    "$oid": "6373ba56b11f4bf73583af3b"
+  }
+},{
+  "_id": {
+    "$oid": "6373b7b0b11f4bf73583af2a"
+  },
+  "nom ": "Sandra",
+  "cognom1 ": "Soler",
+  "cognom2 ": "Sanz",
+  "NIF ": "48759362-Y",
+  "telefon ": "698745213",
+  "lloc_treball ": [
+    {
+      "repartidor ": false,
+      "comanda_id ": {
+        "$oid": "6373b73ab11f4bf73583af29"
+      },
+      "data_comanda ": {
+        "$date": {
+          "$numberLong": "1640995200000"
+        }
+      }
+    },
+    {
+      "cuiner ": true
+    }
+  ],
+  "tenda_id": {
+    "$oid": "6373ba63b11f4bf73583af3c"
+  }
+}]

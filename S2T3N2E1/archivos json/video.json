@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "63726afd6a43fd11d47d52cc"
+  },
+  "titol": "",
+  "descripcio": "",
+  "grandaria": 0,
+  "nom_arxiu": "",
+  "durada": "",
+  "thumbnail": "",
+  "reproduccions": 0,
+  "likes": 0,
+  "deslikes": 0,
+  "estats ": {
+    "public ": true,
+    "ocult ": false,
+    "privat ": false
+  },
+  "usuari_id ": {
+    "$oid": "6374cf4d0dac6e93c2289e7c"
+  },
+  "data_publicacio ": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "etiquetes": [
+    {
+      "nom": "",
+      "nom_usuari": "",
+      "video_id": {
+        "$oid": "63726afd6a43fd11d47d52cc"
+      }
+    }
+  ]
+}]

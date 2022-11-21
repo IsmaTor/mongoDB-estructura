@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "637203e96a43fd11d47d524d"
+  },
+  "nom": "Clàssica",
+  "descripcio": "Carn 100% boví, tomaquet, enciam, formatge gouda",
+  "imatge": "",
+  "preu": 7
+},{
+  "_id": {
+    "$oid": "6372043c6a43fd11d47d524e"
+  },
+  "nom": "Manhattan",
+  "descripcio": "Carn 100% boví, tomaquet, enciam, formatge cheddar, bacon",
+  "imatge": "",
+  "preu": 8
+},{
+  "_id": {
+    "$oid": "6372043f6a43fd11d47d524f"
+  },
+  "nom": "Vegan",
+  "descripcio": "\"Carn 100% vegana, tomaquet, enciam, formatge vegà",
+  "imatge": "",
+  "preu": 10
+}]

@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "637206e46a43fd11d47d5252"
+  },
+  "nom": "Bezoya",
+  "descripcio": "aigua mineral",
+  "imatge": "",
+  "preu": 1
+},{
+  "_id": {
+    "$oid": "6372070e6a43fd11d47d5253"
+  },
+  "nom": "Vichy Catalán",
+  "descripcio": "aigua mineral amb gas",
+  "imatge": "",
+  "preu": 1.5
+},{
+  "_id": {
+    "$oid": "637207116a43fd11d47d5254"
+  },
+  "nom": "Coke",
+  "descripcio": "Coca Cola normal",
+  "imatge": "",
+  "preu": 2
+},{
+  "_id": {
+    "$oid": "637207136a43fd11d47d5255"
+  },
+  "nom": "Coke Zero",
+  "descripcio": "Coca Cola sense sucre",
+  "imatge": "",
+  "preu": 2
+}]

@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "636fe73e93f8440aa0adda46"
+  },
+  "nom": "Pizzaland",
+  "adreça": {
+    "carrer": "Las 4 estaciones",
+    "numero": "58",
+    "pis": 2,
+    "puerta": 1,
+    "codi_postal": "08026",
+    "provincia ": {
+      "localitat ": {
+        "nom ": "Barcelona"
+      },
+      "nom ": "Barcelona"
+    }
+  },
+  "telefon": 936587495
+}]

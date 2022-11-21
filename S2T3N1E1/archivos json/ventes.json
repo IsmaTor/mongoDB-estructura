@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "636fe0e393f8440aa0adda25"
+  },
+  "data_venta": {
+    "$date": {
+      "$numberLong": "1670713200000"
+    }
+  },
+  "treballador": "Mortadelo",
+  "idclients": {
+    "$oid": "636fe73e93f8440aa0adda46"
+  },
+  "idulleres": {
+    "$oid": "636fe04d93f8440aa0adda22"
+  }
+},{
+  "_id": {
+    "$oid": "636fea9293f8440aa0adda6d"
+  },
+  "data_venta": {
+    "$date": {
+      "$numberLong": "1670713200000"
+    }
+  },
+  "treballador": "Mortadelo",
+  "idclients": {
+    "$oid": "636fe88393f8440aa0adda48"
+  },
+  "idulleres": {
+    "$oid": "636fe67493f8440aa0adda3d"
+  }
+}]
